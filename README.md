@@ -6,10 +6,10 @@ Build the multiplayer game with SocketIO
 
 Learning Goals:
 
-Learn about and work with real-time data for the better players experience
-Try Websockets 
-Connect a frontend (React/Redux) with a backend (NodeJS)
-Get more comfortable with Redux
+*Learn about and work with real-time data for the better players experience
+*Try Websockets 
+*Connect a frontend (React/Redux) with a backend (NodeJS)
+*Get more comfortable with Redux
 
 Link to the backend:
 
