@@ -1,5 +1,16 @@
-# Tic Tac Toe front end
+# Front end for the game project
 
-This is the frontend for the game starter in which you can play Tic Tac Toe with a friend. It's build using the standard `create-react-app` so the usual `yarn start` can be used.
+Build the multiplayer game with SocketIO
 
-The backend (server) of this project must be running for the app to function correctly.
+## My goals were:
+
+Learning Goals:
+
+Learn about and work with real-time data for the better players experience
+Try Websockets 
+Connect a frontend (React/Redux) with a backend (NodeJS)
+Get more comfortable with Redux
+
+Link to the backend:
+
+[Typescript API](https://github.com/oksmelnik/melody-server)
