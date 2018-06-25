@@ -2,6 +2,7 @@
 
 Build the multiplayer game with SocketIO
 
+
 ## My goals were:
 
 Learning Goals:
@@ -14,3 +15,5 @@ Learning Goals:
 Link to the backend:
 
 [Typescript API](https://github.com/oksmelnik/melody-server)
+
+![](https://media.giphy.com/media/2A36Bcs8w89HP5UnCR/giphy.gif)
