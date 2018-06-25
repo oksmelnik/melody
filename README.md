@@ -1,6 +1,10 @@
 # Front end for the game project
 
-Build the multiplayer game with SocketIO
+Build the multiplayer game with SocketIO. 
+* User can create a new game
+* Other user can join the game
+* After 2 players in the game it starts with playing audio and answer variants
+* If Player 1 loose, it's players 2 turn. His game updates and he could make his guess
 
 
 ## My goals were:
