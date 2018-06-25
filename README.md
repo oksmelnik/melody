@@ -1,6 +1,6 @@
 # Front end for the game project
 
-Build the multiplayer game with SocketIO. 
+Build the multiplayer game with SocketIO.
 * User can create a new game
 * Other user can join the game
 * After 2 players in the game it starts with playing audio and answer variants
@@ -12,7 +12,7 @@ Build the multiplayer game with SocketIO.
 Learning Goals:
 
 * Learn about and work with real-time data for the better players experience
-* Try Websockets 
+* Try Websockets
 * Connect a frontend (React/Redux) with a backend (NodeJS)
 * Get more comfortable with Redux
 
